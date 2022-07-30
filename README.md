@@ -8,6 +8,8 @@
 
 <h1 align="center">Hi , I'm Aflah</h1>
 
+<img align="center" src="https://discord.c99.nl/widget/theme-2/932256132129497099.png" alt="Discord"/>
+
 ## Connect with me:
 
 <a href="https://github.com/Aflah2635">
