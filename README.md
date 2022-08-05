@@ -27,5 +27,5 @@
 </a>
 <a href="https://github.com/Aflah2635?tab=followers"><img src="https://img.shields.io/github/followers/Aflah2635?label=Followers&style=social" alt="GitHub Badge"></a>
 </a>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+
     <img src="https://komarev.com/ghpvc/?username=Aflah2635">
