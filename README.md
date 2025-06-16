@@ -12,8 +12,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aflah2635&layout=pie)
 
-![Languages Compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Aflah2635&layout=compact)
-
 ![Languages Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=Aflah2635&layout=compact&langs_count=6&theme=radical)
 
 
