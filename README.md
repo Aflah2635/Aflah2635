@@ -12,6 +12,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aflah2635&layout=pie)
 
+![Languages Compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Aflah2635&layout=compact)
+
 
 <img align="center" src="https://discord.c99.nl/widget/theme-2/932256132129497099.png" alt="Discord"/>
 
