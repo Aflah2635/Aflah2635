@@ -10,7 +10,7 @@
 
 ## 🧠 Languages Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=pie)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aflah2635&layout=pie)
 
 
 <img align="center" src="https://discord.c99.nl/widget/theme-2/932256132129497099.png" alt="Discord"/>
